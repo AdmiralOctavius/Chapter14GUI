@@ -1,0 +1,10 @@
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\bin\Debug\Chapter14GUI.exe.config
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\bin\Debug\Chapter14GUI.exe
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\bin\Debug\Chapter14GUI.pdb
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\obj\Debug\Chapter14GUI.csprojAssemblyReference.cache
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\obj\Debug\Chapter14GUI.Properties.Resources.resources
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\obj\Debug\Chapter14GUI.csproj.GenerateResource.cache
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\obj\Debug\Chapter14GUI.csproj.CoreCompileInputs.cache
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\obj\Debug\Chapter14GUI.exe
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\obj\Debug\Chapter14GUI.pdb
+C:\Users\bennett253\source\repos\Chapter14GUI\Chapter14GUI\obj\Debug\Chapter14GUI.Form1.resources
